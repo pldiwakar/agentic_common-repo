@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("HELLO Common GO")
+	fmt.Println("HELLO Common Git")
 }
